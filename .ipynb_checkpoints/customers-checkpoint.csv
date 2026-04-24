@@ -1,0 +1,301 @@
+customer_id,city,signup_date
+1,Belo Horizonte,2022-08-13
+2,Curitiba,2022-05-06
+3,São Paulo,2022-05-10
+4,Belo Horizonte,2022-02-22
+5,Belo Horizonte,2022-06-21
+6,Curitiba,2022-08-06
+7,São Paulo,2022-06-09
+8,São Paulo,2022-07-17
+9,Belo Horizonte,2022-09-04
+10,Rio,2022-11-20
+11,Belo Horizonte,2022-07-22
+12,Belo Horizonte,2022-07-03
+13,Belo Horizonte,2022-05-03
+14,Belo Horizonte,2022-09-12
+15,Curitiba,2022-10-21
+16,São Paulo,2022-10-07
+17,Curitiba,2022-11-21
+18,Curitiba,2022-04-08
+19,Curitiba,2022-07-17
+20,Belo Horizonte,2022-08-28
+21,Rio,2022-05-24
+22,São Paulo,2022-04-07
+23,Rio,2022-07-20
+24,Curitiba,2022-05-04
+25,Curitiba,2022-07-06
+26,Rio,2022-11-22
+27,Rio,2022-12-15
+28,Rio,2022-09-16
+29,Curitiba,2022-05-28
+30,Curitiba,2022-09-09
+31,São Paulo,2022-12-12
+32,São Paulo,2022-05-27
+33,Curitiba,2022-05-28
+34,Rio,2022-12-18
+35,Rio,2022-07-18
+36,São Paulo,2022-11-04
+37,Curitiba,2022-05-08
+38,São Paulo,2022-02-08
+39,São Paulo,2022-12-04
+40,Belo Horizonte,2022-12-26
+41,Belo Horizonte,2022-05-09
+42,Belo Horizonte,2022-09-24
+43,Rio,2022-05-31
+44,Curitiba,2022-10-25
+45,Curitiba,2022-04-09
+46,Curitiba,2022-09-20
+47,Curitiba,2022-09-09
+48,Belo Horizonte,2022-05-24
+49,Rio,2022-12-12
+50,Rio,2022-04-22
+51,Belo Horizonte,2022-03-01
+52,Rio,2022-01-02
+53,Belo Horizonte,2022-10-31
+54,Curitiba,2022-09-11
+55,Belo Horizonte,2022-05-20
+56,Curitiba,2022-02-06
+57,Curitiba,2022-06-09
+58,São Paulo,2022-01-09
+59,Belo Horizonte,2022-08-21
+60,São Paulo,2022-04-09
+61,Belo Horizonte,2022-05-27
+62,Belo Horizonte,2022-10-31
+63,São Paulo,2022-07-27
+64,São Paulo,2022-05-11
+65,Belo Horizonte,2022-06-01
+66,Rio,2022-02-23
+67,Curitiba,2022-04-30
+68,São Paulo,2022-06-10
+69,Curitiba,2022-04-26
+70,Rio,2022-03-16
+71,Rio,2022-04-23
+72,Rio,2022-04-14
+73,São Paulo,2022-12-06
+74,Rio,2022-09-11
+75,São Paulo,2022-08-15
+76,Rio,2022-04-22
+77,Curitiba,2022-04-09
+78,Curitiba,2022-06-02
+79,Belo Horizonte,2022-12-15
+80,Curitiba,2022-12-04
+81,Belo Horizonte,2022-07-13
+82,Curitiba,2022-11-06
+83,São Paulo,2022-06-12
+84,Curitiba,2022-07-27
+85,Belo Horizonte,2022-06-18
+86,Belo Horizonte,2022-06-10
+87,Rio,2022-03-09
+88,São Paulo,2022-10-16
+89,Curitiba,2022-10-04
+90,Rio,2022-10-31
+91,Curitiba,2022-05-15
+92,Curitiba,2022-07-14
+93,Rio,2022-05-08
+94,Rio,2022-02-02
+95,Rio,2022-06-25
+96,Rio,2022-01-22
+97,Rio,2022-08-26
+98,Curitiba,2022-06-07
+99,Rio,2022-02-07
+100,São Paulo,2022-08-18
+101,Belo Horizonte,2022-12-31
+102,Rio,2022-02-20
+103,Rio,2022-09-21
+104,Curitiba,2022-10-10
+105,Rio,2022-01-27
+106,Rio,2022-08-14
+107,Rio,2022-10-04
+108,Curitiba,2022-10-13
+109,Rio,2022-04-07
+110,Belo Horizonte,2022-10-11
+111,Curitiba,2022-11-13
+112,Belo Horizonte,2022-10-31
+113,Curitiba,2022-05-27
+114,Rio,2022-01-04
+115,Belo Horizonte,2022-02-04
+116,Curitiba,2022-07-11
+117,São Paulo,2022-02-18
+118,Rio,2022-01-17
+119,Curitiba,2022-06-21
+120,São Paulo,2022-08-08
+121,Curitiba,2022-06-07
+122,São Paulo,2022-02-15
+123,Rio,2022-01-06
+124,Belo Horizonte,2022-04-09
+125,São Paulo,2022-08-21
+126,Curitiba,2022-02-06
+127,Rio,2022-10-07
+128,São Paulo,2022-12-15
+129,Curitiba,2022-10-29
+130,Curitiba,2022-06-30
+131,Curitiba,2022-04-05
+132,São Paulo,2022-04-09
+133,São Paulo,2022-07-07
+134,São Paulo,2022-04-26
+135,Belo Horizonte,2022-07-10
+136,São Paulo,2022-09-10
+137,São Paulo,2022-06-10
+138,São Paulo,2022-09-13
+139,Belo Horizonte,2022-11-19
+140,São Paulo,2022-05-08
+141,Curitiba,2022-01-18
+142,São Paulo,2022-10-08
+143,Curitiba,2022-08-11
+144,Curitiba,2022-02-23
+145,Curitiba,2022-02-27
+146,Belo Horizonte,2022-11-19
+147,Belo Horizonte,2022-12-26
+148,Belo Horizonte,2022-06-23
+149,São Paulo,2022-10-07
+150,Curitiba,2022-04-24
+151,Belo Horizonte,2022-10-15
+152,Belo Horizonte,2022-12-08
+153,São Paulo,2022-05-31
+154,Belo Horizonte,2022-05-07
+155,São Paulo,2022-06-04
+156,Rio,2022-09-30
+157,Belo Horizonte,2022-04-14
+158,Rio,2022-10-26
+159,São Paulo,2022-09-03
+160,Curitiba,2022-06-25
+161,Belo Horizonte,2022-02-08
+162,São Paulo,2022-06-19
+163,Curitiba,2022-09-04
+164,Curitiba,2022-01-26
+165,Rio,2022-12-21
+166,São Paulo,2022-11-02
+167,Curitiba,2022-01-13
+168,Belo Horizonte,2022-11-12
+169,Belo Horizonte,2022-11-09
+170,Rio,2022-02-05
+171,Curitiba,2022-06-22
+172,São Paulo,2022-01-20
+173,Belo Horizonte,2022-11-17
+174,Curitiba,2022-09-21
+175,Curitiba,2022-05-22
+176,Rio,2022-05-23
+177,Belo Horizonte,2022-04-02
+178,Belo Horizonte,2022-12-20
+179,São Paulo,2022-11-18
+180,Belo Horizonte,2022-10-15
+181,São Paulo,2022-08-03
+182,Belo Horizonte,2022-12-08
+183,Rio,2022-02-20
+184,Belo Horizonte,2022-06-02
+185,São Paulo,2022-07-05
+186,São Paulo,2022-03-04
+187,Rio,2022-07-09
+188,Belo Horizonte,2022-05-05
+189,Belo Horizonte,2022-05-30
+190,Rio,2022-11-10
+191,Belo Horizonte,2022-02-27
+192,Belo Horizonte,2022-12-08
+193,São Paulo,2022-11-01
+194,Belo Horizonte,2022-06-29
+195,Belo Horizonte,2022-06-19
+196,Rio,2022-11-22
+197,Rio,2022-09-28
+198,Curitiba,2022-02-23
+199,São Paulo,2022-04-11
+200,Belo Horizonte,2022-09-21
+201,Belo Horizonte,2022-02-22
+202,Curitiba,2022-03-01
+203,Belo Horizonte,2022-04-18
+204,São Paulo,2022-01-05
+205,Curitiba,2022-04-13
+206,São Paulo,2022-07-15
+207,Curitiba,2022-09-19
+208,Curitiba,2022-12-31
+209,Rio,2022-12-16
+210,São Paulo,2022-02-16
+211,Belo Horizonte,2022-12-21
+212,Belo Horizonte,2022-11-07
+213,São Paulo,2022-11-04
+214,Belo Horizonte,2022-05-24
+215,Belo Horizonte,2022-09-26
+216,São Paulo,2022-05-04
+217,Curitiba,2022-04-16
+218,São Paulo,2022-06-07
+219,Curitiba,2022-05-27
+220,Belo Horizonte,2022-05-25
+221,Belo Horizonte,2022-04-30
+222,Belo Horizonte,2022-11-15
+223,Rio,2022-10-02
+224,Curitiba,2022-04-02
+225,Rio,2022-02-27
+226,Rio,2022-12-12
+227,São Paulo,2022-08-17
+228,Rio,2022-04-27
+229,São Paulo,2022-11-14
+230,São Paulo,2022-10-06
+231,Rio,2022-05-07
+232,Curitiba,2022-05-09
+233,Curitiba,2022-02-27
+234,Curitiba,2022-05-02
+235,Curitiba,2022-01-01
+236,Curitiba,2022-08-27
+237,Rio,2022-10-17
+238,Rio,2022-04-06
+239,Belo Horizonte,2022-05-06
+240,Curitiba,2022-04-28
+241,Rio,2022-02-17
+242,Belo Horizonte,2022-03-30
+243,Curitiba,2022-08-25
+244,São Paulo,2022-09-29
+245,Belo Horizonte,2022-07-08
+246,Rio,2022-07-11
+247,São Paulo,2022-03-10
+248,São Paulo,2022-10-05
+249,São Paulo,2022-12-15
+250,Belo Horizonte,2022-09-04
+251,Rio,2022-03-17
+252,São Paulo,2022-06-03
+253,Curitiba,2022-05-24
+254,São Paulo,2022-03-27
+255,São Paulo,2022-07-04
+256,Belo Horizonte,2022-10-12
+257,Belo Horizonte,2022-08-08
+258,Rio,2022-03-10
+259,Curitiba,2022-02-16
+260,Belo Horizonte,2022-04-04
+261,São Paulo,2022-08-26
+262,Rio,2022-07-23
+263,São Paulo,2022-08-06
+264,São Paulo,2022-12-07
+265,Belo Horizonte,2022-02-08
+266,Rio,2022-04-10
+267,Curitiba,2022-10-16
+268,Curitiba,2022-09-11
+269,Belo Horizonte,2022-08-10
+270,Belo Horizonte,2022-12-23
+271,Rio,2022-01-23
+272,Curitiba,2022-09-07
+273,Curitiba,2022-01-10
+274,Curitiba,2022-09-03
+275,São Paulo,2022-11-21
+276,Curitiba,2022-04-10
+277,São Paulo,2022-10-17
+278,Rio,2022-06-29
+279,São Paulo,2022-08-11
+280,Rio,2022-09-07
+281,Curitiba,2022-05-27
+282,Curitiba,2022-04-06
+283,Rio,2022-09-14
+284,Belo Horizonte,2022-11-21
+285,Rio,2022-01-04
+286,Belo Horizonte,2022-01-16
+287,São Paulo,2022-10-07
+288,São Paulo,2022-12-02
+289,São Paulo,2022-09-04
+290,Curitiba,2022-09-15
+291,São Paulo,2022-06-09
+292,Belo Horizonte,2022-12-06
+293,São Paulo,2022-06-01
+294,Rio,2022-06-27
+295,Rio,2022-06-12
+296,Curitiba,2022-02-02
+297,Rio,2022-06-28
+298,Belo Horizonte,2022-04-11
+299,São Paulo,2022-09-25
+300,Curitiba,2022-11-19
